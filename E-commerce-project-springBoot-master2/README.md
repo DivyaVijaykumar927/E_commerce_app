@@ -1,3 +1,3 @@
-
+This project is an e-commerce platform built using Spring Boot and MySQL, designed to manage products, customers, and categories through an admin dashboard. It follows the MVC architecture, with controllers handling endpoints, models representing data, and views for the frontend. Users can log in as either admin or normal customers to access functionalities like viewing and managing products. The database configuration and essential data setup can be done via the application.properties file and a provided SQL script. The platform is run locally and accessed via http://localhost:8080/. It includes intuitive features for a seamless user experience.
 
 
